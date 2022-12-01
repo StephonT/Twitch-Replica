@@ -20,6 +20,10 @@ function Navbar() {
             />
           </a>
         </Link>
+        <p className="p-4">Browse</p>
+
+        {/* Headless U/I */}
+        <div className="p-4"></div>
       </div>
 
       {/* Middle */}
