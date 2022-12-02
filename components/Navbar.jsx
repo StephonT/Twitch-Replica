@@ -21,7 +21,7 @@ function Navbar() {
 
   const { data: session } = useSession();
 
-  console.log(session);
+  // console.log(session);
 
   return (
     <div className="fixed h-14 w-full flex flex-nowrap items-center p-4 bg-[#0e0e10] mb-[2px] z-10">
@@ -72,7 +72,7 @@ function Navbar() {
                           "block px-4 py-2 text-sm"
                         )}
                       >
-                        Account
+                        Settings
                       </a>
                     )}
                   </Menu.Item>
@@ -88,7 +88,7 @@ function Navbar() {
                           "block px-4 py-2 text-sm"
                         )}
                       >
-                        Logout
+                        Support
                       </a>
                     )}
                   </Menu.Item>
