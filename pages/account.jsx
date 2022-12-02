@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function Component() {
   const { data: session } = useSession();
-  console.log(session);
+  // console.log(session);
   if (session) {
     return (
       <div className="pt-[100px] flex flex-col max-w-[400px] w-full mx-auto p-4">
