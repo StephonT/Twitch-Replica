@@ -34,7 +34,7 @@ const handleNav = () => {
             />
           </a>
         </Link>
-        <p className="p-4 font-bold hover:text-[#9147ff]">Browse</p>
+        <p className="p-4 font-bold hover:text-[#9147ff] cursor-pointer">Browse</p>
         <div className="p-4">
           <Menu as="div" className="relative text-left">
             <div className="flex">
@@ -125,7 +125,7 @@ const handleNav = () => {
       {/* Right Side */}
       <div className="hidden md:flex grow items-center justify-end">
         <div className="flex items-center">
-          <Link href="/">
+          <Link href="/account">
             <button className="px-4 py-[6px] rounded-lg font-bold bg-[#9147ff] mr-2">
               Account
             </button>
