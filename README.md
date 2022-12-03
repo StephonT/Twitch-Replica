@@ -20,6 +20,12 @@
 
   ## Usage
   You can use this app on your desktop or mobile device.
+![Twitch-SS-1](https://user-images.githubusercontent.com/104699408/205416255-0c398a76-bbad-445e-9318-c789fe70f2a7.jpg)
+<br />
+![Twitch-SS-2](https://user-images.githubusercontent.com/104699408/205416263-547f6430-c996-4b51-bd30-bab7dc71090d.jpg)
+<br />
+![Twitch-SS-3](https://user-images.githubusercontent.com/104699408/205416271-1b1974d3-6d01-450e-a612-23424cc88195.jpg)
+
 
   ## License
   This project is license under MIT
