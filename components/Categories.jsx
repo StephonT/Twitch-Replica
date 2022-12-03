@@ -5,7 +5,7 @@ const Categories = () => {
   return (
     <div id="categories" className="p-2 md:p-8">
       <h2 className="text-xl font-bold px-2">
-        <span className="text-[#9147ff]">Categories</span> we think you'll
+        <span className="text-[#9147ff]">Categories</span> we think you will
         like
       </h2>
       {/* Container */}
