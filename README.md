@@ -4,6 +4,7 @@
 
   ## Description
   This project was built using Next.js. I added authentication using NextAuth.js. This made it very easy to add authentication to this application. In this project, I gave the user the ability sign in using their Google Account or their Github account. I only added this feature to gain experience with NextAuth.js. I also used the mockaroo website for the mock data. Click the link to explore the website <a href="https://www.mockaroo.com/" target="_blank">Mockaroo</a>. This website was fairly easy to create mock data. I used Tailwind.css to style this application. 
+  
 
   ## Table of Contents
   * [Installation](#installation)
