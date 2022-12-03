@@ -1,22 +1,38 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Twitch-Replica
+  ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-First, run the development server:
+  ## Description
+  This project was built using Next.js.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#questions)
+  * [Learn More](#learn-more)
+  * [Deploy on Vercel](#deploy-on-vercel)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  ## Installation
+  You must clone the code to VsCode. Once you clone the code successfully, run npm install in the command line. After that, run npm run dev and the website will open up in localhost:3000.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+  ## Usage
+  You can use this app on your desktop or mobile device.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+  ## License
+  This project is license under MIT
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+  ## Contributing
+  If you would like to contribute to the repo, please contact me directly.
+  
+  ## Tests
+  no test
+
+  ## Questions
+  If you have any questions about this project, please contact me directly at streadwe@gmail.com. You can view more of my projects at https://github.com/StephonT.
+
 
 ## Learn More
 
