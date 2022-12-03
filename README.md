@@ -16,7 +16,7 @@
   * [Deploy on Vercel](#deploy-on-vercel)
 
   ## Installation
-  You must clone the code to VsCode. Once you clone the code successfully, run npm install in the command line. After that, run npm run dev and the website will open up in localhost:3000.
+  You must clone this github code to VsCode. Once you clone the code successfully, run npm install in the command line. After that, run npm run dev and the website will open up in localhost:3000.
 
   ## Usage
   You can use this app on your desktop or mobile device.
