@@ -3,7 +3,7 @@ import "../styles/globals.css";
 import {SessionProvider} from 'next-auth/react'
 
 
-function MyApp({ Component, pageProps: {session, ...pageProps} }) {
+function MyApp({ session, Component, pageProps }) {
   return (
     <SessionProvider session={session}>
       <Navbar />
