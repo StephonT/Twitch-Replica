@@ -1,5 +1,4 @@
-import Head from 'next/head'
-import Image from 'next/image'
+import { getSession } from 'next-auth/react'
 import Layout from '../components/Layout'
 
 
